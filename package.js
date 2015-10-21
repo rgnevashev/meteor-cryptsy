@@ -2,7 +2,7 @@ Package.describe({
 	summary: "cryptsy",
 	version: "0.0.4",
 	name: "rgnevashev:cryptsy",
-	git: "",
+	git: "https://github.com/rgnevashev/meteor-cryptsy",
   documentation: null
 });
 
